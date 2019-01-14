@@ -52,7 +52,7 @@ Gem::Specification.new do |s|
   s.add_dependency "recaptcha", "~> 3.3.0"
 
   s.add_development_dependency "appraisal", "~> 2.0"
-  s.add_development_dependency "capybara", "~> 2.4"
+  s.add_development_dependency "capybara", "~> 3.1"
   s.add_development_dependency "coveralls", "~> 0.8.1"
   s.add_development_dependency "database_cleaner", "~> 1.4"
   s.add_development_dependency "factory_bot_rails", "~> 4.11.1"
